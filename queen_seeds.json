@@ -1,0 +1,93 @@
+[
+    {
+        "Name": "Dance World",
+        "THC": "12‑14%",
+        "CBD": "Niedrig",
+        "Ertrag Indoor": "300‑350 gr/m2",
+        "Ertrag Outdoor": "400‑600 gr/plant",
+        "Hoehe Indoor": "70‑90 cm",
+        "Hoehe Outdoor": "100‑140 cm",
+        "Blütephase": "7‑9 Wochen",
+        "Ernte": "75‑90 Tage nach Keimen",
+        "Wirkung": "Ausgeglichen, entspannt",
+        "Geschmack": "Fruchtig, süß"
+    },
+    {
+        "Name": "HulkBerry",
+        "THC": "18‑24%",
+        "CBD": "Niedrig",
+        "Ertrag Indoor": "400‑500 gr/m2",
+        "Ertrag Outdoor": "500‑650 gr/plant",
+        "Hoehe Indoor": "90‑120 cm",
+        "Hoehe Outdoor": "120‑170 cm",
+        "Blütephase": "8‑9 Wochen",
+        "Ernte": "80‑95 Tage nach Keimen",
+        "Wirkung": "Energisch, euphorisch",
+        "Geschmack": "Beerig, süß"
+    },
+    {
+        "Name": "Quick One",
+        "THC": "12‑14%",
+        "CBD": "Niedrig",
+        "Ertrag Indoor": "275‑325 gr/m2",
+        "Ertrag Outdoor": "100‑150 gr/plant",
+        "Hoehe Indoor": "50‑60 cm",
+        "Hoehe Outdoor": "60‑100 cm",
+        "Blütephase": "35‑40 Tage",
+        "Ernte": "65‑70 Tage nach Keimen",
+        "Wirkung": "Körperlich entspannend",
+        "Geschmack": "Erdig, fruchtig, zitrusartig"
+    },
+    {
+        "Name": "Trainwreck",
+        "THC": "18‑22%",
+        "CBD": "Niedrig",
+        "Ertrag Indoor": "350‑400 gr/m2",
+        "Ertrag Outdoor": "150‑200 gr/plant",
+        "Hoehe Indoor": "60‑80 cm",
+        "Hoehe Outdoor": "120‑200 cm",
+        "Blütephase": "8‑9 Wochen",
+        "Ernte": "75‑85 Tage nach Keimen",
+        "Wirkung": "Euphorisch, kreativ",
+        "Geschmack": "Zitronig, würzig"
+    },
+    {
+        "Name": "Critical Kush",
+        "THC": "20‑24%",
+        "CBD": "Niedrig",
+        "Ertrag Indoor": "400‑500 gr/m2",
+        "Ertrag Outdoor": "200‑250 gr/plant",
+        "Hoehe Indoor": "70‑90 cm",
+        "Hoehe Outdoor": "150‑200 cm",
+        "Blütephase": "8‑9 Wochen",
+        "Ernte": "80‑90 Tage nach Keimen",
+        "Wirkung": "Entspannend, körperlich",
+        "Geschmack": "Erdig, würzig"
+    },
+    {
+        "Name": "Special Queen 1",
+        "THC": "14‑18%",
+        "CBD": "Niedrig",
+        "Ertrag Indoor": "350‑450 gr/m2",
+        "Ertrag Outdoor": "400‑600 gr/plant",
+        "Hoehe Indoor": "70‑100 cm",
+        "Hoehe Outdoor": "120‑160 cm",
+        "Blütephase": "7‑8 Wochen",
+        "Ernte": "75‑90 Tage nach Keimen",
+        "Wirkung": "Ausgeglichen, mild",
+        "Geschmack": "Skunk‑artig"
+    },
+    {
+        "Name": "Sour Diesel",
+        "THC": "18‑21%",
+        "CBD": "Niedrig",
+        "Ertrag Indoor": "300‑400 gr/m2",
+        "Ertrag Outdoor": "350‑500 gr/plant",
+        "Hoehe Indoor": "70‑90 cm",
+        "Hoehe Outdoor": "100‑150 cm",
+        "Blütephase": "8‑9 Wochen",
+        "Ernte": "80‑90 Tage nach Keimen",
+        "Wirkung": "Euphorisch, energetisch",
+        "Geschmack": "Zitronig, dieselartig"
+    }
+]
